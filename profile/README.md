@@ -11,8 +11,9 @@ In addition to native management tools, Neat Pulse offers an API that enables cu
 
 ## 📚 Resources
 
-- **[Neat Pulse API Documentation](https://api.pulse.neat.no/docs/)** - Complete API reference and getting started guides
-- **[Neat Pulse Platform](https://pulse.neat.no)** - Main platform dashboard
+- **[Neat Pulse API Documentation](https://api.pulse.neat.no/docs/)** - Complete API reference
+- **[Neat Pulse Platform](https://pulse.neat.no)** - Sign in to Neat Pulse
+- **[Neat Pulse Information](https://neat.no/pulse)** - Learn more about Neat and the Neat Pulse offering
 
 ## 🤝 What We're Looking For
 
@@ -78,8 +79,8 @@ Projects should be **free to use** to ensure broad accessibility across the comm
 
 Our community is maintained by:
 
-- **Chris Rouge** - [@rougenbacher](https://github.com/chrisrouge)
-- **Cameron Pavloske** - [@cameronpavloske](https://github.com/cameronpavloske) *(update with actual GitHub username)*
+- **Chris Rouge** - [@rougenbacher](https://github.com/rougenbacher)
+- **Cameron Pavloske** - [@cpavloske](https://github.com/cpavloske)
 
 *Additional admins may be added as the community grows.*
 
