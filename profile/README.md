@@ -41,6 +41,8 @@ We follow standard GitHub collaboration practices:
 - **Submit Pull Requests** with detailed descriptions of what you've changed and why
 - **Participate in code reviews** constructively and respectfully
 
+⚠️ Security Reminder: Never include your API keys, Organization IDs, or other sensitive credentials in your code contributions. Use environment variables, configuration files (added to .gitignore), or placeholder values in examples.
+
 ### 📦 Creating New Repositories
 When sharing your own projects:
 
