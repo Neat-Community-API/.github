@@ -78,7 +78,7 @@ Projects should be **free to use** to ensure broad accessibility across the comm
 
 Our community is maintained by:
 
-- **Chris Rouge** - [@chrisrouge](https://github.com/chrisrouge) *(update with actual GitHub username)*
+- **Chris Rouge** - [@rougenbacher](https://github.com/chrisrouge)
 - **Cameron Pavloske** - [@cameronpavloske](https://github.com/cameronpavloske) *(update with actual GitHub username)*
 
 *Additional admins may be added as the community grows.*
